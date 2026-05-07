@@ -46,4 +46,4 @@
 * Explanation of originality score
 * Auto-generated research abstract
 
-
+---
