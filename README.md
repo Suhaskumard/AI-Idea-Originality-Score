@@ -15,7 +15,7 @@ The system helps researchers, students, and innovators identify duplicate concep
 - ✅ Explainable AI feedback for low originality scores
 - ✅ Automatic research abstract generation
 - ✅ Keyword extraction and concept analysis
-- ✅ Duplicate and near-duplicate idea detection
+- ✅ Duplicate and near-duplicate idea detection 
 - ✅ Research-focused NLP pipeline
 - ✅ Lightweight and notebook-friendly architecture
 
